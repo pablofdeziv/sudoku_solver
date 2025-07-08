@@ -30,7 +30,10 @@ This project solves sudoku puzzles using artificial intelligence techniques like
 1. Open the project in Eclipse or any Java IDE.
 2. Compile all files in `/src`.
 3. Run the main class
-4. 4. Check `sudokusSolution.txt` for the output.
+4. Check `sudokusSolution.txt` for the output.
+
+> 📥 Note: Each line in `sudokus.txt` contains a single puzzle with 81 digits.
+> Dots (`.`) represent empty cells, and the puzzle is read row by row.
 
 ## 📝 License
 
